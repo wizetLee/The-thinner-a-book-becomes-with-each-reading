@@ -22,4 +22,3 @@ configure_file(input_file output_file [COPYONLY] [ESCAPE_QUOTES] [@ONLY])
 - @ONLY选项表示只替换@标记的变量，而不替换$标记的变量。
 
 ---
-
