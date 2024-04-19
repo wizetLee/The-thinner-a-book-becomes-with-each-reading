@@ -1,0 +1,4 @@
+- activate your free trial : 激活免费试用版
+- established : 正式成立/建立的（TCP某个阶段
+- congestion control : 拥塞控制
+- best effort service : 尽力而为服务

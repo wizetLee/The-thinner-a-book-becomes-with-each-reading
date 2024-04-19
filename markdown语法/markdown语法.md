@@ -48,6 +48,12 @@
 ### 图片
 ![图片描述是什么？](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4wB6i?ver=ae16)
 
+### 控制图片尺寸
+<center class ='img'>
+<img title="控制图片尺寸" src="../计算机网络-自顶向下方法第七版/image/运行中的GBN.png" width="55%">
+</center>
+
+
 ### 表格
 | 姓名   | 年龄 |     工作 |
 | :----- | :--: | -------: |
