@@ -2,3 +2,53 @@
 - established : 正式成立/建立的（TCP某个阶段
 - congestion control : 拥塞控制
 - best effort service : 尽力而为服务
+- plug and play device : 是即插即用设备
+- load balancer : 负载均衡器
+- handoff : 切换、接力
+- ad hoc network : 自组织网络
+- cellular : 蜂窝（即由一个蜂窝网覆盖的区域被分成许多称作小区（cell）的地理覆盖区域
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
+-  :
