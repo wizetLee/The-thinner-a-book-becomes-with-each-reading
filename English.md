@@ -7,14 +7,15 @@
 - handoff : 切换、接力
 - ad hoc network : 自组织网络
 - cellular : 蜂窝（即由一个蜂窝网覆盖的区域被分成许多称作小区（cell）的地理覆盖区域
--  :
--  :
--  :
--  :
--  :
--  :
--  :
--  :
+- downcast : 向下转换（抽象到具象、范围缩小
+- Named Return Value : NRV优化(一个编译器优化)
+- hierarchy : 等级制度；统治集团；等级体系
+- LAN(Loacl Area Network) : 局域网
+- WAN(Wide Area Network) : 广域网
+- MAN(metropolitan Area Network) : 广域网 /ˌmetrəˈpɒlɪtən/ 大都市的；本土的
+- ethernet : 以太网("Ethernet"一词源自于“以太”（Ether）这一概念，而以太又是古希腊人用来描述存在于虚空中的一种假设物质的术语。在以太网的上下文中，这个术语用来暗示数据通过一种“虚拟”的媒介进行传输，而不是通过物理线路直接传输。)
+- Transmission Control Protocol : 传输控制协议
+- User Datagram Protocol : 用户数据报协议
 -  :
 -  :
 -  :
