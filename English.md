@@ -2,7 +2,7 @@
 - established : 正式成立/建立的（TCP某个阶段
 - congestion control : 拥塞控制
 - best effort service : 尽力而为服务
-- plug and play device : 是即插即用设备
+- plug and play device : 即插即用设备
 - load balancer : 负载均衡器
 - handoff : 切换、接力
 - ad hoc network : 自组织网络
@@ -16,12 +16,12 @@
 - ethernet : 以太网("Ethernet"一词源自于“以太”（Ether）这一概念，而以太又是古希腊人用来描述存在于虚空中的一种假设物质的术语。在以太网的上下文中，这个术语用来暗示数据通过一种“虚拟”的媒介进行传输，而不是通过物理线路直接传输。)
 - Transmission Control Protocol : 传输控制协议
 - User Datagram Protocol : 用户数据报协议
--  :
--  :
--  :
--  :
--  :
--  :
+- virtual private network : 虚拟专用网络
+- low-water mark : 套接字低水位标记（在计算机科学中通常指的是某种资源的最低可接受水平，触发某些维护或管理操作以确保系统的平稳运行。）
+- round-trip time(RTT) : 往返时间
+- broadcast : 广播、散播
+- resolving deltas : 解析增量，在克隆过程中，Git需要处理和应用差异数据（deltas）来重建文件的各个版本
+- tellg : tell get position 
 -  :
 -  :
 -  :
